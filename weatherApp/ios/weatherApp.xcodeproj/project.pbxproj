@@ -33,6 +33,11 @@
 		AAA823A2FAF54A00AB0642C5 /* white-up-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 73155BC3909F4F8BA16D42D5 /* white-up-icon.png */; };
 		3738508CF34C4D5B8189794F /* wind-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FC359EBBCF9344C09059C30A /* wind-icon.png */; };
 		921DEF701D1C4AC094B10C30 /* drawer-image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4EA2B5D075B04D42BC5644F6 /* drawer-image.jpg */; };
+		851319E029C640B4A51308FE /* arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A3EF67D482C47819752EB4F /* arrow.png */; };
+		6B752256113344EA9F5DD227 /* humidity-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 928C07468F15440AA14DE6A3 /* humidity-icon.png */; };
+		9B02D2C5231C44B0BA04573D /* pressure-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E34F3BC724D54875A34082CD /* pressure-icon.png */; };
+		CC2CC989F1F44387B61226B7 /* white-up-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 842468EC16AC499CB2794DD3 /* white-up-icon.png */; };
+		09849F664467481CA93867F7 /* wind-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9843B60A8A5E40B79FFE529B /* wind-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,6 +83,11 @@
 		73155BC3909F4F8BA16D42D5 /* white-up-icon.png */ = {isa = PBXFileReference; name = "white-up-icon.png"; path = "../src/assets/icons/white-up-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		FC359EBBCF9344C09059C30A /* wind-icon.png */ = {isa = PBXFileReference; name = "wind-icon.png"; path = "../src/assets/icons/wind-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		4EA2B5D075B04D42BC5644F6 /* drawer-image.jpg */ = {isa = PBXFileReference; name = "drawer-image.jpg"; path = "../src/assets/images/contentImages/drawer-image.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7A3EF67D482C47819752EB4F /* arrow.png */ = {isa = PBXFileReference; name = "arrow.png"; path = "../src/assets/icons/logs/arrow.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		928C07468F15440AA14DE6A3 /* humidity-icon.png */ = {isa = PBXFileReference; name = "humidity-icon.png"; path = "../src/assets/icons/logs/humidity-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E34F3BC724D54875A34082CD /* pressure-icon.png */ = {isa = PBXFileReference; name = "pressure-icon.png"; path = "../src/assets/icons/logs/pressure-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		842468EC16AC499CB2794DD3 /* white-up-icon.png */ = {isa = PBXFileReference; name = "white-up-icon.png"; path = "../src/assets/icons/logs/white-up-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9843B60A8A5E40B79FFE529B /* wind-icon.png */ = {isa = PBXFileReference; name = "wind-icon.png"; path = "../src/assets/icons/logs/wind-icon.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +201,11 @@
 				73155BC3909F4F8BA16D42D5 /* white-up-icon.png */,
 				FC359EBBCF9344C09059C30A /* wind-icon.png */,
 				4EA2B5D075B04D42BC5644F6 /* drawer-image.jpg */,
+				7A3EF67D482C47819752EB4F /* arrow.png */,
+				928C07468F15440AA14DE6A3 /* humidity-icon.png */,
+				E34F3BC724D54875A34082CD /* pressure-icon.png */,
+				842468EC16AC499CB2794DD3 /* white-up-icon.png */,
+				9843B60A8A5E40B79FFE529B /* wind-icon.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -307,6 +322,11 @@
 				AAA823A2FAF54A00AB0642C5 /* white-up-icon.png in Resources */,
 				3738508CF34C4D5B8189794F /* wind-icon.png in Resources */,
 				921DEF701D1C4AC094B10C30 /* drawer-image.jpg in Resources */,
+				851319E029C640B4A51308FE /* arrow.png in Resources */,
+				6B752256113344EA9F5DD227 /* humidity-icon.png in Resources */,
+				9B02D2C5231C44B0BA04573D /* pressure-icon.png in Resources */,
+				CC2CC989F1F44387B61226B7 /* white-up-icon.png in Resources */,
+				09849F664467481CA93867F7 /* wind-icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
