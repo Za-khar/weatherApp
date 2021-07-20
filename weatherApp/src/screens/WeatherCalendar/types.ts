@@ -1,0 +1,1 @@
+export type OnRefreshType = () => void;
